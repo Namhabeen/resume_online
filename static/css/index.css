@@ -36,7 +36,7 @@ li {
 }
 
 .jumbotron {
-  background-image: url("static/img/jumbo_bg.PNG");
+  background-image: url("/static/img/jumbo_bg.PNG");
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
