@@ -70,6 +70,10 @@ li {
   margin-left: 5%;
 }
 
+.tit_txt{
+  margin-top: 10%;
+}
+
 .section-heading {
   font-family: "Noto Sans KR", sans-serif;
   font-weight: 900;
@@ -102,7 +106,7 @@ li {
   font-weight: 900;
 }
 
-#btn {
+#btn, .btn_txt{
   background-color: rgb(245, 221, 3);
   border-radius: 35px;
   border: none;
@@ -158,19 +162,6 @@ a:hover {
 .carousel-control-next,
 .carousel-control-prev {
   filter: invert(100%);
-}
-
-.progress {
-  height: 30px;
-  margin-top: 5%;
-  background-color: #b5b5b5;
-}
-
-.progress-bar {
-  background-color: rgb(245, 221, 3);
-  font-family: "Noto Sans KR", sans-serif;
-  font-weight: 700;
-  color: black;
 }
 
 footer {
